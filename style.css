@@ -1,0 +1,10 @@
+body{
+background-image:url('picture 8.jpg');
+background-size:cover;
+background-repeat:no repeat; }
+img{width:100px;
+height: auto;
+display: block;
+margin-right: auto;
+margin-left: auto;
+}
